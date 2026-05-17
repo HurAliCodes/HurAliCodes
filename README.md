@@ -11,13 +11,13 @@ src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=28&dura
 ‎### 🌐 Frontend & Web
 ‎
 ‎<p>
-‎  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,tailwind,bootstrap,html,css" />
+‎  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,bootstrap,html,css" />
 ‎</p>
 ‎
 ‎### ⚙️ Backend
 ‎
 ‎<p>
-‎  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,django,fastapi,go,laravel,spring" />
+‎  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
 ‎</p>
 ‎
 ‎### 🗄️ Databases
@@ -31,7 +31,7 @@ src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=28&dura
 ‎### 🧑‍💻 Languages
 ‎
 ‎<p>
-‎  <img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,c,dart,php,go" />
+‎  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,c" />
 ‎</p>
 ‎
 ‎
