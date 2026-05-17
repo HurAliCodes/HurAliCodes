@@ -23,7 +23,7 @@ src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=28&dura
 ‎### 🗄️ Databases
 ‎
 ‎<p>
-‎  <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,mysql,redis,oracle" />
+‎  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,oracle" />
 ‎</p>
 ‎
 ‎
