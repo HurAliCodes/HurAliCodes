@@ -42,9 +42,9 @@ src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=28&dura
 ‎  <p align="center">
 ‎  <img src="https://yourinsights.vercel.app/api/insight?username=HurAliCodes&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
 ‎</p>
-‎  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lHurAliCodes&theme=radical&layout=compact" height="170"/>
+‎  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lHurAliCodes&theme=radical&layout=compact" height="170"/>
 ‎  <br/>
-‎ <img src="https://github-readme-stats.vercel.app/api?username=HurAliCodes&theme=radical" height="170"/> 
+‎ <img src="https://github-readme-stats.vercel.app/api?username=HurAliCodes&theme=radical" height="170"/> -->
 ‎  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HurAliCodes&theme=radical" height="170"/>
 ‎  <br/>
 ‎</div>
