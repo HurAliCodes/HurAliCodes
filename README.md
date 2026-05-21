@@ -6,21 +6,21 @@ src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=28&dura
 ‎</p>
 ‎<h3 align="center">Full Stack Developer</h3>
 ‎
-‎## 🛠️ Tech Stack
+‎<h2> 🛠️ Tech Stack </h2>
 ‎
-‎### 🌐 Frontend & Web
+‎<h3> 🌐 Frontend & Web </h3>
 ‎
 ‎<p>
 ‎  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,bootstrap,html,css" />
 ‎</p>
 ‎
-‎### ⚙️ Backend
+‎<h3> ⚙️ Backend </h3>
 ‎
 ‎<p>
 ‎  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
 ‎</p>
 ‎
-‎### 🗄️ Databases
+‎<h3> 🗄️ Databases </h3>
 ‎
 ‎<p>
 ‎  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,oracle" />
@@ -28,7 +28,7 @@ src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=28&dura
 ‎
 ‎
 ‎
-‎### 🧑‍💻 Languages
+‎<h3> 🧑‍💻 Languages </h3>
 ‎
 ‎<p>
 ‎  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,c" />
