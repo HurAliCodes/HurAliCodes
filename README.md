@@ -17,7 +17,7 @@ src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=28&dura
 ‎<h3> ⚙️ Backend </h3>
 ‎
 ‎<p>
-‎  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
+‎  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 ‎</p>
 ‎
 ‎<h3> 🗄️ Databases </h3>
