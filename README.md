@@ -129,21 +129,12 @@ A complete full-stack E-Commerce platform built from scratch with a focus on sca
 <img src="https://yourinsights.vercel.app/api/insight?username=HurAliCodes&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" />
 </p>
 
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=HurAliCodes)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
-
 ---
 
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=HurAliCodes&theme=flat&no-frame=true&margin-w=15"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HurAliCodes&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
