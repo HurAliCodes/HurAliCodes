@@ -1,8 +1,8 @@
 <div align="center">
 
-<h1>Hi 👋, I'm Hur Ali</h1>
+# Hi 👋, I'm Hur Ali
 
-<h2><b>Full Stack Developer • BSCS Student @ FAST NUCES</b></h2>
+### Full Stack Developer • BSCS Student @ FAST NUCES
 
 </div>
 
