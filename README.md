@@ -1,11 +1,11 @@
 # <h1 align="center">Hi 👋, I'm Hur Ali</h1>
 
-<h3 align="center">
+<h2 align="center">
 Full Stack Developer • BSCS Student @ FAST NUCES
-</h3>
+</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Express;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=32&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Express;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -131,7 +131,7 @@ A complete full-stack E-Commerce platform built from scratch with a focus on sca
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=HurAliCodes&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=HurAliCodes)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
 ---
