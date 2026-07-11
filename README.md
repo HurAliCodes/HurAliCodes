@@ -143,7 +143,7 @@ A complete full-stack E-Commerce platform built from scratch with a focus on sca
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HurAliCodes&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=HurAliCodes&theme=flat&no-frame=true&margin-w=15"/>
 </p>
 
 ---
