@@ -2,6 +2,7 @@
 
 <h2 align="center">
 Full Stack Developer • BSCS Student @ FAST NUCES
+<br/>
 </h2>
 
 <br/>
