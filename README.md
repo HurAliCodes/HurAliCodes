@@ -142,11 +142,7 @@ A complete full-stack E-Commerce platform built from scratch with a focus on sca
 # 🐍 Contribution Snake
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+  <img src="https://raw.githubusercontent.com/HurAliCodes/HurAliCodes/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 > **⚠️ Note:** The snake animation requires a GitHub Action workflow. It will not appear until the workflow generates the SVG.
