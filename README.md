@@ -7,7 +7,7 @@ Full Stack Developer • BSCS Student @ FAST NUCES
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=32&duration=3500&pause=1000&color=0BDA51&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Express;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG"/>
 </p>
-
+<br/>
 <p align="center">
   <a href="https://github.com/HurAliCodes">
     <img src="https://komarev.com/ghpvc/?username=HurAliCodes&label=Profile%20Views&color=3B82F6&style=for-the-badge"/>
