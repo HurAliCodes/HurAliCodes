@@ -103,15 +103,11 @@ A complete full-stack E-Commerce platform built from scratch with a focus on sca
 - 🔐 JWT Authentication
 - 👤 User Profiles
 - 🛍 Product Catalog
-- ❤️ Wishlist
 - 🛒 Shopping Cart
 - ⭐ Product Reviews & Ratings
 - 💳 Secure Checkout
 - 📦 Order Tracking
 - 📱 Responsive Design
-- 🛠 Powerful Admin Dashboard
-- 📈 Sales Analytics
-- 🎟 Coupons & Discounts
 
 ### ⚙ Tech Stack
 
