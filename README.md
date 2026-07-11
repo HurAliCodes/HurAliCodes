@@ -5,60 +5,72 @@ Full Stack Developer • BSCS Student @ FAST NUCES • Unity Game Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Express;Unity+Game+Developer;Always+Building+Something+Awesome" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Express;Unity+Game+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/HurAliCodes">
+    <img src="https://komarev.com/ghpvc/?username=HurAliCodes&label=Profile+Views&color=3B82F6&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/HurAliCodes?tab=followers">
+    <img src="https://img.shields.io/github/followers/HurAliCodes?label=Followers&style=for-the-badge&color=3B82F6" />
+  </a>
+  <a href="https://github.com/HurAliCodes">
+    <img src="https://img.shields.io/github/stars/HurAliCodes?affiliations=OWNER&style=for-the-badge&color=3B82F6" />
+  </a>
 </p>
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
-I'm **Hur Ali**, a **BSCS student at FAST NUCES** from **Karachi, Pakistan**, with a passion for building modern web applications and immersive game experiences.
+I'm **Hur Ali**, a **BSCS Student at FAST NUCES** based in **Karachi, Pakistan**.
 
-I enjoy transforming ideas into polished products—whether it's a scalable full-stack application or an engaging Unity game. I love learning new technologies, solving challenging problems, and continuously improving my skills.
+I'm passionate about creating modern, scalable, and user-friendly software. My interests span from **Full Stack Web Development** to **Unity Game Development**, where I enjoy transforming ideas into polished products.
 
-Currently, I'm focused on developing a **production-ready E-commerce Platform**, while expanding my knowledge in **Artificial Intelligence and Machine Learning**.
+I believe great software is built with clean architecture, thoughtful design, and continuous learning. Every project is an opportunity to improve, experiment with new technologies, and solve real-world problems.
 
-I'm always excited to collaborate on innovative projects and contribute to open-source software.
-
----
-
-# 🚀 Currently Working On
-
-🛒 Production Ready E-commerce Platform
-
-🎮 Exploring Game Development with Unity
-
-📚 Continuously improving Full Stack Development skills
+Currently, I'm building a **production-ready E-commerce Platform** while expanding my expertise in software architecture and AI.
 
 ---
 
-# 💻 Tech Stack
+## 🚀 Current Focus
 
-### Frontend
+* 🛒 Building a Production-Ready E-commerce Platform
+* 🎮 Creating Games with Unity & C#
+* 🌱 Improving Backend Architecture Skills
+* 📚 Learning Clean Code & Design Patterns
+* 🤖 Beginning my journey into AI & Machine Learning
+
+---
+
+## 💻 Tech Stack
+
+### 🎨 Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" />
 </p>
 
-### Backend
+### ⚙️ Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### Databases
+### 🗄️ Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 </p>
 
-### Languages
+### 💻 Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=js,ts,cs,python" />
 </p>
 
-### Tools & Technologies
+### 🛠️ Tools & Technologies
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,unity,blender,figma,vscode" />
@@ -66,29 +78,31 @@ I'm always excited to collaborate on innovative projects and contribute to open-
 
 ---
 
-# 🌱 Currently Learning
+## 🌱 Currently Learning
 
-* Advanced Backend Architecture
+* Artificial Intelligence & Machine Learning
+* Advanced Backend Development
 * Software Design Patterns
-* Clean Code & Scalable Systems
+* Scalable System Architecture
+* Clean Code Principles
 
 ---
 
-# 📌 Featured Projects
+## 📌 Featured Projects
 
-🚧 Coming Soon...
+> 🚧 **Coming Soon**
 
 I'm currently working on several exciting projects that will be showcased here soon.
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HurAliCodes&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HurAliCodes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HurAliCodes&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HurAliCodes&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -100,86 +114,55 @@ I'm currently working on several exciting projects that will be showcased here s
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=HurAliCodes&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HurAliCodes&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/HurAliCodes/HurAliCodes/output/github-contribution-grid-snake-dark.svg" />
-
-</p>
-
-> **Note:** You'll need to enable a GitHub Action in your profile repository to generate the snake animation automatically.
-
----
-
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
 
 <a href="https://github.com/HurAliCodes">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
 <a href="https://www.linkedin.com/in/syed-hur-ali-rizvi/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
 <a href="mailto:huralirizvi092@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
 </p>
 
-📧 **Email:** [huralirizvi092@gmail.com](mailto:huralirizvi092@gmail.com)
+📧 **Email:** **[huralirizvi092@gmail.com](mailto:huralirizvi092@gmail.com)**
 
 ---
 
-# ⚡ Fun Facts
+## ⚡ Fun Facts
 
-🎮 I enjoy developing games with Unity.
-
-🛣️ I love road trips and exploring the beautiful landscapes of Pakistan.
-
-💪 Fitness enthusiast who enjoys staying active.
-
-🍵 Tea is my fuel while coding.
-
-🚀 I believe there's always a better way to build software.
-
-🌙 Most of my best ideas arrive late at night.
+* 🎮 I enjoy developing games with **Unity**.
+* 🚗 I love road trips and exploring the beautiful landscapes of **Pakistan**.
+* 💪 Fitness enthusiast who enjoys staying active.
+* 🍵 Tea is my favorite coding companion.
+* 🚀 I enjoy building products that solve real-world problems.
+* 🌙 Some of my best ideas come late at night.
 
 ---
 
-<p align="center">
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=HurAliCodes&label=Profile%20Views&color=3b82f6&style=for-the-badge"/>
+### 💭 Favorite Quote
 
-</p>
+> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
 
-### ⭐ "Code. Learn. Build. Repeat."
+### ⭐ Thanks for visiting my profile!
 
-</p>
+If you like my work, consider giving a ⭐ to my repositories.
+
+**Happy Coding! 🚀**
+
+</div>
