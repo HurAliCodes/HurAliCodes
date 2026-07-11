@@ -2,7 +2,7 @@
 
 <h1>Hi 👋, I'm Hur Ali</h1>
 
-<p><b>Full Stack Developer • BSCS Student @ FAST NUCES</b></p>
+<h2><b>Full Stack Developer • BSCS Student @ FAST NUCES</b></h2>
 
 </div>
 
