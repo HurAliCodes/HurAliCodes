@@ -1,14 +1,13 @@
-# <h1 align="center">Hi 👋, I'm Hur Ali</h1>
+<div align="center">
 
-<h2 align="center">
-Full Stack Developer • BSCS Student @ FAST NUCES
-<br/>
-</h2>
+<h1>Hi 👋, I'm Hur Ali</h1>
 
-<br/>
+<p><b>Full Stack Developer • BSCS Student @ FAST NUCES</b></p>
+
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight800&size=32&duration=3500&pause=1000&color=0BDA51&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Express;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=32&duration=3500&pause=1000&color=0BDA51&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Express;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG"/>
 </p>
 <br/>
 
