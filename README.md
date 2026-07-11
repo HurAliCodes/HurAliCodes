@@ -5,7 +5,7 @@ Full Stack Developer • BSCS Student @ FAST NUCES
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Express;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Express;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -122,7 +122,7 @@ A complete full-stack E-Commerce platform built from scratch with a focus on sca
 # 📊 GitHub Statistics
 
 <p align="center">
- <img src="https://yourinsights.vercel.app/api/insight?username=HurAliCodes&theme=github_dark&graph=false&languages=true&streak=true&stats=true&summary=true&profile=true" alt="GitHub Insights" />
+ <img src="https://yourinsights.vercel.app/api/insight?username=HurAliCodes&theme=github_dark&graph=false&languages=true&streak=true&stats=true&summary=true" alt="GitHub Insights" />
 </p>
 
 
