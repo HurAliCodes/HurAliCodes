@@ -5,7 +5,7 @@ Full Stack Developer • BSCS Student @ FAST NUCES • Unity Game Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Express;Unity+Game+Developer;Always+Building+Something+Awesome;Currently+Learning+AI+%26+Machine+Learning" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Express;Unity+Game+Developer;Always+Building+Something+Awesome" />
 </p>
 
 ---
@@ -25,8 +25,6 @@ I'm always excited to collaborate on innovative projects and contribute to open-
 # 🚀 Currently Working On
 
 🛒 Production Ready E-commerce Platform
-
-🤖 Learning Artificial Intelligence & Machine Learning
 
 🎮 Exploring Game Development with Unity
 
@@ -70,8 +68,6 @@ I'm always excited to collaborate on innovative projects and contribute to open-
 
 # 🌱 Currently Learning
 
-* Artificial Intelligence
-* Machine Learning
 * Advanced Backend Architecture
 * Software Design Patterns
 * Clean Code & Scalable Systems
