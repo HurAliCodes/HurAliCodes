@@ -122,7 +122,7 @@ A complete full-stack E-Commerce platform built from scratch with a focus on sca
 # 📊 GitHub Statistics
 
 <p align="center">
- <img src="https://yourinsights.vercel.app/api/insight?username=HurAliCodes&theme=github_dark&graph=false&languages=true&streak=true&stats=true&summary=true" alt="GitHub Insights" />
+<img src="https://yourinsights.vercel.app/api/insight?username=HurAliCodes&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=false&summary=true&profile=true" alt="GitHub Insights" />
 </p>
 
 
