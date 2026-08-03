@@ -26,6 +26,27 @@
 
 ---
 
+# 💫 About Me
+
+I'm **Hur Ali**, a **BSCS Student at FAST NUCES** based in **Karachi, Pakistan**.
+
+I'm passionate about building modern, scalable software that solves real-world problems. From creating production-ready web applications to developing immersive Unity games, I enjoy transforming ideas into polished products.
+
+I believe that great software is built through clean architecture, continuous learning, and attention to detail. Every project is an opportunity to challenge myself, learn something new, and improve my craft.
+
+Currently, I'm building a **production-ready E-Commerce Platform** while expanding my knowledge in **Artificial Intelligence & Machine Learning**.
+
+---
+
+# 🚀 Current Focus
+
+- 🛒 Building a Production Ready E-Commerce Platform
+- 🎮 Developing Games with Unity & C#
+- 🤖 Learning Artificial Intelligence & Machine Learning
+- 🌱 Improving Backend Architecture
+- 📚 Mastering Clean Code & Software Design
+
+---
 
 # 💻 Tech Stack
 
