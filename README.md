@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://hurali.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-hurali-3B82F6"/>
+    <img src="https://img.shields.io/badge/Portfolio-hurali-3B82F?style=for-the-badge&color=3B82F6"/>
   </a>
   <a href="https://github.com/HurAliCodes">
     <img src="https://komarev.com/ghpvc/?username=HurAliCodes&label=Profile%20Views&color=3B82F6&style=for-the-badge"/>
