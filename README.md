@@ -13,8 +13,8 @@
 <br/>
 
 <p align="center">
-  <a href="https://yourdomain.com">
-    <img src="https://img.shields.io/badge/Portfolio-hurali.vercel.app-3B82F6?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <a href="https://hurali.vercel.app">
+    <img src="https://img.shields.io/badge/hurali.vercel.app-3B82F6?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://github.com/HurAliCodes">
     <img src="https://komarev.com/ghpvc/?username=HurAliCodes&label=Profile%20Views&color=3B82F6&style=for-the-badge"/>
